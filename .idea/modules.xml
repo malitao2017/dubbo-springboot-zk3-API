@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-order-service-consumer/boot-order-service-consumer.iml" filepath="$PROJECT_DIR$/boot-order-service-consumer/boot-order-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-user-service-provider/boot-user-service-provider.iml" filepath="$PROJECT_DIR$/boot-user-service-provider/boot-user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-user-service-provider-20881/boot-user-service-provider-20881.iml" filepath="$PROJECT_DIR$/boot-user-service-provider-20881/boot-user-service-provider-20881.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-user-service-provider-20882/boot-user-service-provider-20882.iml" filepath="$PROJECT_DIR$/boot-user-service-provider-20882/boot-user-service-provider-20882.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dubbo-springboot-zk3-API.iml" filepath="$PROJECT_DIR$/.idea/dubbo-springboot-zk3-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-interface/gmall-interface.iml" filepath="$PROJECT_DIR$/gmall-interface/gmall-interface.iml" />
+    </modules>
+  </component>
+</project>
